@@ -1,0 +1,9 @@
+,TimeLog,Karanvir Dhillon
+,,
+Date,Time,Task
+2/1,1:00,Going over project deliverables and understainding client requirements
+2/1,0:30,Setting up work station and creating a repository 
+2/1,1:20,Time allocated to creating a skeleton of the project
+2/2,4:00,Updating the class EventCounter
+2/2,1:30,"Ran into a bug with the StreamReader arugment in the ParseEvents methods. However I found a work around, and noted that a stream reader is not ideal to be used for a multi-threadding program"
+2/2,3:00,"Time spent cleaning up code, testing, and reading knowledge articles"
